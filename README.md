@@ -40,7 +40,6 @@ Built as a companion to [Social Auto Engine](https://github.com/Freespirits/soci
 
 - [crawl4ai](https://github.com/unclecode/crawl4ai) — LLM-friendly markdown crawler. Feed it a URL and get structured content for AI-driven hook generation. Apache-2.0. ~50k stars.
 - [LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) — Curated, regularly updated prompt collection for copywriting, hooks, and brand voice. MIT. ~1.5k stars.
-- [prompt-engine-py](https://github.com/microsoft/prompt-engine-py) — Structured prompt construction with persona and voice descriptors. MIT. ~1k stars.
 
 ## MCP Servers
 
@@ -52,7 +51,7 @@ Built as a companion to [Social Auto Engine](https://github.com/Freespirits/soci
 
 - [CRUDAdmin](https://github.com/benavlabs/crudadmin) — FastAPI + HTMX admin panel with auth and event tracking. Drop-in CRUD for any SQLAlchemy model. MIT. ~700 stars.
 - [starlette-admin](https://github.com/jowilf/starlette-admin) — Rich admin panel with file fields, multi-DB support, and advanced filtering. MIT. ~1.7k stars.
-- [sqladmin](https://github.com/aminalaee/sqladmin) — Lightweight SQLAlchemy admin for FastAPI. Zero-config CRUD over existing tables. BSD-3. ~2.7k stars.
+- [sqladmin](https://github.com/smithyhq/sqladmin) — Lightweight SQLAlchemy admin for FastAPI. Zero-config CRUD over existing tables. BSD-3. ~2.8k stars.
 - [fastapi-htmx-tailwind-example](https://github.com/volfpeter/fastapi-htmx-tailwind-example) — SSE streaming, dialogs, and lazy tables with FastAPI + HTMX. MIT. ~300 stars.
 
 ## Approval & Workflow
@@ -64,6 +63,7 @@ Built as a companion to [Social Auto Engine](https://github.com/Freespirits/soci
 
 - [crawlee-python](https://github.com/apify/crawlee-python) — Apify's open-source framework with Playwright integration and proxy rotation. Self-hosted competitor scraping. Apache-2.0. ~7k stars.
 - [Scrapy](https://github.com/scrapy/scrapy) — The reference Python crawler for high-volume scheduled scrapes (trending posts, hashtag analytics). BSD-3. ~55k stars.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) — Agent Skill and API for X/Twitter search, monitoring, exports, media, and confirmation-gated publishing. MIT. ~170 stars. Not affiliated with X Corp.
 
 ## Analytics & Insights
 
@@ -72,7 +72,6 @@ Built as a companion to [Social Auto Engine](https://github.com/Freespirits/soci
 ## Awesome Lists
 
 - [awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) — MCP servers for social media, content, and more.
-- [awesome-social-media](https://github.com/cyberteach360/awesome-social-media) — Tools and APIs for social media research.
 - [awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) — Resources for the FastAPI ecosystem.
 
 ## Contributing
