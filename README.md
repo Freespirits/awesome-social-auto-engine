@@ -20,6 +20,7 @@ Built as a companion to [Social Auto Engine](https://github.com/Freespirits/soci
 
 ## Social Media Schedulers
 
+- [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) — API and reusable AI-agent skills for planning, adapting, reviewing, scheduling, and publishing social media content across channels, with MCP support and a dedicated social media content skills collection. MIT. ~1 star.
 - [Postiz](https://github.com/gitroomhq/postiz-app) — Open-source social media scheduling tool supporting 30+ platforms with AI scheduling. AGPL-3.0. ~22k stars.
 - [Mixpost](https://github.com/inovector/mixpost) — Self-hosted Buffer alternative built with Laravel. MIT (Lite). ~2.1k stars.
 - [GrowChief](https://github.com/growchief/growchief) — OSS social automation focused on outreach with workflow node system. AGPL-3.0. ~3k stars.
